@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b044f492c98f096fce32b9111dbb1bb4",
+    "revision": "d93aa9fe3e14153833e8e84ef8112fa1",
     "url": "/acciones-app/index.html"
   },
   {
-    "revision": "0377be1023c8255eba5b",
+    "revision": "6c67dcaa766fc5a33236",
+    "url": "/acciones-app/static/css/2.af3c1da9.chunk.css"
+  },
+  {
+    "revision": "fef40db5da359af0667f",
     "url": "/acciones-app/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "77130872d891c5942c22",
-    "url": "/acciones-app/static/js/2.34212c7d.chunk.js"
+    "revision": "6c67dcaa766fc5a33236",
+    "url": "/acciones-app/static/js/2.5c986e6d.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/acciones-app/static/js/2.34212c7d.chunk.js.LICENSE.txt"
+    "url": "/acciones-app/static/js/2.5c986e6d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0377be1023c8255eba5b",
-    "url": "/acciones-app/static/js/main.56adaa88.chunk.js"
+    "revision": "fef40db5da359af0667f",
+    "url": "/acciones-app/static/js/main.ab18cb1b.chunk.js"
   },
   {
     "revision": "9d0923cc59f2796c2c49",
